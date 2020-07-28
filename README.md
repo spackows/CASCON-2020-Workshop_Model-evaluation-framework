@@ -1,4 +1,5 @@
-# CASCON 2020 Workshop: Deploying a collaborative model evaluation framework
+# CASCON 2020 Workshop
+## Deploying a collaborative model evaluation framework
 
 <p>&nbsp;</p>
 
