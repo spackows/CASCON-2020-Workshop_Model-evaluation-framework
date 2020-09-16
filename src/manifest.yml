@@ -1,0 +1,4 @@
+---
+applications:
+ - name: stt-eval
+   memory: 128M

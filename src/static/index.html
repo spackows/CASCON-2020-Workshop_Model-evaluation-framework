@@ -1,0 +1,37 @@
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="./css/styles.css">
+<script type="text/javascript" src="./javascript/javascript.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body onload="_loadEvalMethods();">
+
+<div id="stt_div" class="container_div">
+<h3>Generated transcript</h3>
+<textarea id="stt_textarea"></textarea>
+</div>
+
+<div id="cor_div" class="container_div">
+<h3>Corrected transcript</h3>
+<textarea id="cor_textarea"></textarea>
+</div>
+
+<div id="methods_div" class="container_div">
+<h3>Evaluation methods</h3>
+<div id="table_container_div">
+<table id="methods_table"></table>
+<div id="methods_spinner" class="spinner" style="display: none;"></div>
+</div>
+
+<div id="results_div">
+<button id="evaluate_btn" onclick="_evaluate();" title="Click to evaluate speech to text results compared to correct transcript">Evaluate</button>
+<pre id="results_pre"></pre>
+<div id="results_spinner" class="spinner" style="display: none;"></div>
+</div>
+
+</body>
+
+</html>
+
