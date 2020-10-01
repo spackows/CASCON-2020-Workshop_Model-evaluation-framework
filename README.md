@@ -15,7 +15,6 @@ Perform these steps before starting the hands-on workshop:
 2. [Create an account on public GitHub](https://github.com/join)
 3. [Install Git CLI on your local computer](https://git-scm.com/downloads)
 4. [Install Python on your local computer](https://www.python.org/downloads)
-5. [Install curl on your local computer](https://curl.haxx.se/download.html)
 
 <p>&nbsp;</p>
 
