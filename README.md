@@ -96,33 +96,34 @@ See: [Section B Demo video](./videos/section-A.mp4)
 
 ### B.2 Clone your repo to your local computer
 <ol>
-<li><p>Copy the URL of your new GitHub repo</p></li>
-<li><p>On your local computer, use the <code>git clone</code> command, specifying the URL of your repo:<br/><code>git clone &lt;your-url></code></p></li>
+<li>
+<p>Copy the URL of your new GitHub repo</p></li>
+<li>
+<p>On your local computer, use the <code>git clone</code> command, specifying the URL of your repo:<br/><code>git clone &lt;your-url></code></p></li>
 </ol>
 
 <img src="./images/workshop-repo-url.png" width="600" alt="Copying repo URL" />
 
-### B.3 Give the app in your repo a unique name
-The app name forms part of the app URL, so your app needs a unique name.
-
-On your local computer, change the app name in two files:
-- `manifest.yml`
-- `setup.py`
-
-I used part of my name to make the app name unique:
-
-<img src="./images/workshop-app-name.png" width="500" alt="App name" />
-
-### B.4 Push sample app code to your repo
+### B.3 Copy sample code to your local repo directory
 <ol>
-<li><p>Copy the sample app files from the <code>src</code> sub-directory to the directory of your new repo on your local computer</p>
+<li>
+<p>Copy the sample app files from the <code>src</code> sub-directory to the directory of your new repo on your local computer</p>
 </li>
 <li>
-<p>Use git commands to add the file to your repo:<br/><pre>git add -A
-git commit -m "&lt;comment>"
-git push origin master</pre></p>
+<p>The app name forms part of the app URL, so your app needs a unique name.  On your local computer, change the app name in two files:
+<ul>
+<li><code>manifest.yml</code></li>
+<li><code>setup.py</code></li>
+</ul></p>
+<p><b>Example</b><br/>For the workshop, you could use your initials or part of your name to make a unique app name:<br/><img src="./images/workshop-app-name.png" width="500" alt="App name" /></p>
 </li>
 </ol>
+
+### B.4 Push sample app code to your repo
+Use git commands to add the files to your repo:
+<pre>git add -A
+git commit -m "&lt;comment>"
+git push origin master</pre>
 
 <p>&nbsp;</p>
 
