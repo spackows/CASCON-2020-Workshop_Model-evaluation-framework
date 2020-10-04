@@ -221,16 +221,10 @@ When you provision the instance, take note of the region the instance is created
 <p>Click the <i>play</i> button to run the pipeline:<br/><img src="./images/workshop-run-pipeline-manually.png" width="400" alt="Run pipeline" /></p>
 </li>
 <li>
-<p>After the stage completes, right-click on <code>IBM Cloud</code> and open the IBM Cloud dashboard in a new browser tab:<br/><img src="./images/workshop-run-done.png" width="400" alt="Pipeline run done" /></p>
+<p>After the stage completes, right-click on <code>View console</code> and open the add details page in a new browser tab:<br/><img src="./images/workshop-run-done.png" width="400" alt="Pipeline run done" /></p>
 </li>
 <li>
-<p>In the IBM Cloud dashboard, click <code>View all</code> to see all your resources</p>
-</li>
-<li>
-<p>In the <b>Cloud Foundry apps</b> section of the resources list, click on your newly-deployed Cloud Foundry app to view its details:<br/><img src="./images/workshop-cf-apps.png" width="400" alt="Cloud Foundry apps" /></p>
-</li>
-<li>
-<p>In the app details, you can review run-time logs and you can click <code>Visit App URL</code> to test the web app running on IBM Cloud:<br/><img src="./images/workshop-app-details.png" width="400" alt="App details" /></p>
+<p>On the app details page, you can review run-time logs and you can click <code>Visit App URL</code> to test the web app running on IBM Cloud:<br/><img src="./images/workshop-app-details.png" width="400" alt="App details" /></p>
 </li>
 </ol>
 
