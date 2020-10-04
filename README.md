@@ -99,7 +99,7 @@ See: [Section B Demo video](./videos/section-A.mp4)
 <li>
 <p>Copy the URL of your new GitHub repo</p></li>
 <li>
-<p>On your local computer, use the <code>git clone</code> command, specifying the URL of your repo:<br/><code>git clone &lt;your-url></code></p></li>
+<p>On your local computer, from your working directory, use the <code>git clone</code> command, specifying the URL of your repo:<br/><code>git clone &lt;your-url></code></p></li>
 </ol>
 
 <img src="./images/workshop-repo-url.png" width="600" alt="Copying repo URL" />
