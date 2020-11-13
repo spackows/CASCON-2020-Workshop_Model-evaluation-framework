@@ -134,6 +134,8 @@ Use git commands to add the files to your repo:
 git commit -m "&lt;comment>"
 git push origin main</pre>
 
+*Note:* GitHub recently changed the name of the default repo branch from `master` to `main`.  Depending on when you created your repo, you might need to push your changes to `master` instead of `main`.  Look at your repo in GitHub to see what the name of your default branch is.
+
 <p>&nbsp;</p>
 
 
