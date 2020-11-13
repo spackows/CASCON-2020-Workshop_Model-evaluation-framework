@@ -132,10 +132,7 @@ See: [Section B Demo video](./videos/section-A.mp4)
 Use git commands to add the files to your repo:
 <pre>git add -A
 git commit -m "&lt;comment>"
-git push origin master</pre>
-
-*Tip:* If you encounter error "error: src refspec master does not match any", use this command to push your files:
-<pre>git push origin HEAD:master</pre>
+git push origin main</pre>
 
 <p>&nbsp;</p>
 
@@ -273,7 +270,7 @@ Use the same git commands as before to push the change to your repo:
 
 <pre>git add -A
 git commit -m "&lt;comment>"
-git push origin master</pre>
+git push origin main</pre>
 
 ### D.4 Monitor the automated app redeployment
 On the pipeline delivery page in IBM Cloud, monitor the progress of the build and deploy stages:
