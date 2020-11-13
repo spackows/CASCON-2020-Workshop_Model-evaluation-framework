@@ -4,6 +4,15 @@
 
 
 ## Background information
+To evaluate AI model performance, our team developed a simple framework that applies multiple model evaluation methods simultaneously:
+
+<img src="./images/framework.png" width="500" alt="Framework" />
+
+The framework was deployed to IBM Cloud using a GitHub-integrated continuous delivery pipeline.
+
+This workshop walks you through deploying a simple version of our framework as a Python Flask app to IBM Cloud, using a continuous delivery pipeline with GitHub.
+
+See: [Long abstract](long-abstract_Collaborative-Framework-Workshop_CASCON-2020.pdf)
 
 <p>&nbsp;</p>
 
