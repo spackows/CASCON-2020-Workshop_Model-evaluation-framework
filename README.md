@@ -1,5 +1,13 @@
 # CASCON 2020 Workshop: Model evaluation framework
 
+If you have any questions about this workshop, we would love to hear from you:
+
+Joshua Allard<br/>
+jmallard@us.ibm.com
+
+Sarah Packowski<br/>
+spackows@ca.ibm.com
+
 <p>&nbsp;</p>
 
 
