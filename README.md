@@ -134,6 +134,9 @@ Use git commands to add the files to your repo:
 git commit -m "&lt;comment>"
 git push origin master</pre>
 
+*Tip:* If you encounter error "error: src refspec master does not match any", use this command to push your files:
+<pre>git push origin HEAD:master</pre>
+
 <p>&nbsp;</p>
 
 
